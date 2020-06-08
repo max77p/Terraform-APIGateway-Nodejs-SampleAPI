@@ -1,0 +1,9 @@
+terraform/.terraform/
+
+sam/lambda-layer/nodejs/
+
+scripts/node_modules/
+
+dynamodb/.terraform/
+dynamodb/terraform.tfstate
+dynamodb/terraform.tfstate.backup
